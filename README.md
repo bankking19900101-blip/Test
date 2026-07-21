@@ -1,4 +1,4 @@
-# Test
+8th# Test
 Test Stroy 
 
 BankKing
@@ -9,7 +9,7 @@ Encountering Sentient Crystal
 Structures. Suddenly, Portal
 Signals Spread, Pulling Millions.
 Mysterious Stars Shifted, Destiny
-Permanently Began Unfolding.10，中文后面再翻译
+Permanently Began Unfolding.10:中文后面再翻译
 
 Titan Journey Awakened Hidden
 Intelligence Inside Europa;
@@ -30,4 +30,21 @@ Returned, Carrying Starlight Back.
 路。在他们的旅程中，巨龙突然归
 来，带着星光返回，为这片神秘世
 界开启了新的传奇。
+
+Silent Librarian Zoe Secretly Hid
+Rare Volumes, Shielding Wisdom
+Hidden Across Ages. Hope
+Returned As Scholars Mapped
+Curious Symbols, Solving
+Forgotten Codes, Guiding
+Destinies.
+
+中文意思
+20:沉默的图书管理员佐伊秘密藏起了
+珍贵的典籍，守护着跨越时代流传
+下来的智慧。希望重新降临，学者
+们绘制出神秘的符号，破解了被遗
+忘的密码，最终引导了人们的命
+运。
+
 
